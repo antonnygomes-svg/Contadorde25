@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div {
+    color: white;
+    font-family: "Comic Sans MS";
+}
+
+button {
+    width: 200px;
+    height: 100px;
+    font-family: "Comic Sans MS";
+}
+
+span {
+    font-family: "Comic Sans MS";
+}
+
+h3 {
+    top: 50%;
+    right: 50%;
+}
