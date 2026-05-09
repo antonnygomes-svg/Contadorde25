@@ -26,6 +26,8 @@ button {
     width: 200px;
     height: 100px;
     font-family: "Comic Sans MS";
+    top: 50%;
+    right: 100%;
 }
 
 span {
@@ -34,5 +36,5 @@ span {
 
 h3 {
     top: 50%;
-    right: 50%;
+    right: 100%;
 }
